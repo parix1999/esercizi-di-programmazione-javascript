@@ -9,7 +9,7 @@
 
   Esempio:
     Input: numero di gatti = 44, gatti per fila = 6
-    Output: numero di file = 8, gatti mancanti = 4
+    Output: numero di file = 8, gatti mancanti = 2
 
   Consigli:
   Per l'arrotondamento ti consiglio di non usare Math.round (arrotonda all'intero superiore solo da .5 in su),
